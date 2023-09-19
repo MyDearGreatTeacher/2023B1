@@ -1,6 +1,11 @@
 # 資訊安全規劃實務
 ## 資訊安全規劃實務1	
 - 單元1:資訊安全管理系統規劃與建置
+  - CIA
+  - ISMS
+  -[ISO標準](https://youtu.be/DUy604ipIRc)
+  -[ISMS與ISO27001](https://youtu.be/Exv7szGi2GQ)
+  -[Security Controls與ISO27002](https://youtu.be/fANbVYbDcag)
 - 單元2:法規遵循
 - 單元3:資訊安全規劃
 - 單元4:存取管理(Access management)
