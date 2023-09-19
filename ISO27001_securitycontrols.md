@@ -5,7 +5,7 @@
   - 7 實體環境控制措施 (14) Physical controls  (7.1-7.14)
   - 8 技術控制措施 (34) Technological controls (8.1-8.34)
 
-# 11個新增項目
+## 11個新增項目
 ```
 5.7 Threat intelligence (威脅情資)
 5.23 Information security for use of cloud services (雲服務的資訊安全)
@@ -19,7 +19,7 @@
 8.23 Web filtering (網站過濾)
 8.28 Secure coding (安全程式碼撰寫)
 ```
-# 5.組織控制措施 (37)Organizational controls(5.1-5.37) ==> 有三個新增項目
+### 5.組織控制措施 (37)Organizational controls(5.1-5.37) ==> 有三個新增項目
 - 5.1 資訊安全政策
 - 5.2 資訊安全之角色及責任
 - 5.3 職務區隔
@@ -58,7 +58,7 @@
 - 5.36 資訊安全政策、規則及標準之遵循性
 - 5.37 書面記錄之運作程式
 
-# 6 人員控制措施 (8) People controls (6.1-6.8)==> 無新增項目
+### 6 人員控制措施 (8) People controls (6.1-6.8)==> 無新增項目
 - 6.1 篩選(Screening)
 - 6.2 聘用條款及條件(Terms and conditions of employment)
 - 6.3 資訊安全認知及教育訓練(Information security awareness, education and training)
@@ -69,7 +69,7 @@
 - 6.8 資訊安全事件通報(Information security event reporting)
 
 
-# 7 實體環境控制措施 (14) Physical controls  (7.1-7.14) ==> 有一個新增項目
+### 7 實體環境控制措施 (14) Physical controls  (7.1-7.14) ==> 有一個新增項目
 - 7.1 實體安全周界(Physical security perimeters)
 - 7.2 實體進入(Physical entry) 控制措施
 - 7.3 保全辦公室、房間及設施 控制措施(Securing offices, rooms and facilities)
@@ -85,7 +85,7 @@
 - 7.13 設備維護(Equipment maintenance)
 - 7.14 設備汰除或重新使用之保全(Secure disposal or re-use of equipment)
         
-# 8 技術控制措施 (34) Technological controls (8.1-8.34)
+### 8 技術控制措施 (34) Technological controls (8.1-8.34)
 - 8.1 使用者端點裝置
 - 8.2 特殊存取權限
 - 8.3 資訊存取限制
