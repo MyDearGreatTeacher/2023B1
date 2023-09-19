@@ -3,7 +3,7 @@
 - 單元1:資訊安全管理系統規劃與建置
   - CIA
   - ISMS
-  - [ISO標準](https://youtu.be/DUy604ipIRc)
+  - [ISO 27XXX系列標準](https://youtu.be/DUy604ipIRc)
   - [ISMS與ISO27001](https://youtu.be/Exv7szGi2GQ)
   - [Security Controls與ISO27002](https://youtu.be/fANbVYbDcag)
 - 單元2:法規遵循
